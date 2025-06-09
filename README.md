@@ -1,2 +1,2 @@
-# proyecto-final-ML
-Esta es una construcción desde cero usando extracción de características de imagens miedicas e implementado redes neuronales desde 0 
+# Proyecto Final ML
+Este proyecto es una construcción desde cero que utiliza extracción de características de imágenes médicas e implementa redes neuronales desde cero.
